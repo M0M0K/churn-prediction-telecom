@@ -1,1 +1,12 @@
+# Données
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Modèles entraînés
+models/*.pkl
+models/*.joblib
+
+# Environnements
+.env
+__pycache__/
 
