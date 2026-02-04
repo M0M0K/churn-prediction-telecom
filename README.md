@@ -29,3 +29,21 @@ afin d’identifier les profils à risque et améliorer la rétention.
 ## 📌 Remarque
 Ce projet est développé étape par étape dans un objectif de portfolio
 Data Scientist, avec un focus sur la clarté, la reproductibilité et le raisonnement métier.
+
+## 📂 Description du dataset
+
+Le projet utilise un dataset public issu de Kaggle :
+**Telco Customer Churn**.
+
+### Contenu des données
+Chaque ligne correspond à un client et contient notamment :
+- informations démographiques (âge, seniorité)
+- type de contrat et services souscrits
+- facturation mensuelle et cumulée
+- ancienneté du client
+- variable cible : churn (Yes / No)
+
+### Remarque
+Le dataset brut n’est pas versionné dans ce repository.
+Il doit être téléchargé séparément et placé dans le dossier :
+
